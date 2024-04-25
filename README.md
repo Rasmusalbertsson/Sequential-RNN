@@ -1,5 +1,9 @@
 This is a Python program designed to help you predict time series data using deep learning models, specifically using LSTM (Long Short-Term Memory) units. This program works with any dataset that includes time-series data and allows you to customize various aspects of the prediction process.
 
+## Dependencies
+
+-  pip install -r requirements.txt
+
 ## Features
 
 - Load your data from a CSV file.
